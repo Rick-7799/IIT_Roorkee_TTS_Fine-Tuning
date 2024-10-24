@@ -4,7 +4,7 @@
 
 Text-to-Speech (TTS) technology has revolutionized how we interact with machines, enabling them to convert written text into spoken words. This technology is widely used in various applications, including virtual assistants, accessibility tools for the visually impaired, and language learning apps. Fine-tuning TTS models is crucial for enhancing their performance, especially when dealing with specialized vocabularies, such as technical jargon in English or regional languages.
 
-In this assignment, we focused on fine-tuning two TTS models: one for English technical speech and another for a selected regional language. We explored the impact of fine-tuning on pronunciation accuracy and evaluated the models using Mean Opinion Scores (MOS) and inference times. Additionally, we investigated optimization techniques like quantization to improve inference speed without compromising audio quality.
+In this assignment, we focused on fine-tuning two TTS models: one for English technical speech and another for a selected regional language[Hindi]. We explored the impact of fine-tuning on pronunciation accuracy and evaluated the models using Mean Opinion Scores (MOS) and inference times. Additionally, we investigated optimization techniques like quantization to improve inference speed without compromising audio quality.
 
 ## Methodology
 
