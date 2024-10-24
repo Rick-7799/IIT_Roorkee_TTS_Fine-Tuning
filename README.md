@@ -22,7 +22,7 @@ Text-to-Speech technology has become increasingly important in various applicati
 
 This repository contains the following branches:
 
-- **[Task 1: English Technical Speech]**: 
+- **[Task 1: English Technical Speech](https://github.com/Rick-7799/IIT_Roorkee_TTS_Fine-Tuning/tree/Task-1)**: 
   - Focuses on fine-tuning a TTS model for English technical vocabulary. Includes detailed reports and code snippets.
   
 - **[Task 2: Regional Language TTS]**: 
