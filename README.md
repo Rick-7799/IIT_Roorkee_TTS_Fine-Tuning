@@ -69,7 +69,7 @@ Here’s a list of technical terms included in the dataset along with their corr
 ### Sample Pronunciation Outputs
 The following audio files were generated for each technical term:
 
-1. **API**: [Listen](output_api.wav)
+1. **API**: [Listen](audio)
 2. **CUDA**: [Listen](output_cuda.wav)
 3. **TTS**: [Listen](output_tts.wav)
 4. **OAuth**: [Listen](output_oauth.wav)
