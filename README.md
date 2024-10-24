@@ -25,13 +25,13 @@ This repository contains the following branches:
 - **[Task 1: English Technical Speech](https://github.com/Rick-7799/IIT_Roorkee_TTS_Fine-Tuning/tree/Task-1)**: 
   - Focuses on fine-tuning a TTS model for English technical vocabulary. Includes detailed reports and code snippets.
   
-- **[Task 2: Regional Language TTS]**: 
+- **[Task 2: Regional Language TTS](https://github.com/Rick-7799/IIT_Roorkee_TTS_Fine-Tuning/tree/Task-2)**: 
   - Covers the fine-tuning of a TTS model for a selected regional language[Hindi]. Contains comprehensive evaluation results and methodologies.
   
-- **[Bonus-Task]**: 
+- **[Bonus-Task](https://github.com/Rick-7799/IIT_Roorkee_TTS_Fine-Tuning/tree/Bonus-Task)**: 
   - Discusses optimization strategies employed to improve inference speed and model size, including code examples.
 
-- **[Final Report]**: 
+- **[Final Report](https://github.com/Rick-7799/IIT_Roorkee_TTS_Fine-Tuning/tree/Final-Report)**: 
   - A comprehensive overview of the entire assignment, including methodologies for fine-tuning TTS models for both English technical speech and a regional language. This report consolidates results, challenges faced, and key takeaways from the project.
 
 ## Installation
