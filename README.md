@@ -10,28 +10,11 @@
 The dataset was created to include natural language sentences in the selected regional language. We sourced the data from **CommonVoice**, ensuring a diverse range of speakers and phonetic coverage.
 
 #### Dataset Structure
-The dataset is structured in a JSON format as follows:
-
-```json
-[
-    {"text": "Namaste, aap kaise hain?", "audio_filepath": "audio/namaste.wav"},
-    {"text": "Yeh ek pariksha hai.", "audio_filepath": "audio/pariksha.wav"},
-    {"text": "Mujhe khushi hai aapse milke.", "audio_filepath": "audio/khushi.wav"},
-    {"text": "Aapka din shubh ho.", "audio_filepath": "audio/din.wav"},
-    {"text": "Kya aapko madad chahiye?", "audio_filepath": "audio/madad.wav"}
-]
-```
+The dataset is structured in a JSON format as follows: [Dataset](Dataset)
 
 ### Training Logs
 During the fine-tuning process, the following logs were recorded:
 
-```plaintext
-Epoch: 1, Training Loss: 0.95, Validation Loss: 0.85, MOS: 3.2
-Epoch: 2, Training Loss: 0.75, Validation Loss: 0.70, MOS: 4.0
-Epoch: 3, Training Loss: 0.60, Validation Loss: 0.65, MOS: 4.5
-```
-
-#### Summary of Training Logs:
 - **Epoch 1**:
   - Training Loss: **0.95**
   - Validation Loss: **0.85**
