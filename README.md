@@ -1,4 +1,4 @@
-# Task 2 Report: Fine-tuning TTS for a Regional Language [Hindi]
+# Task 2 Report: Fine-tuning TTS for a Regional Language
 
 ## Model Performance Overview
 
