@@ -70,10 +70,10 @@ Here’s a list of technical terms included in the dataset along with their corr
 The following audio files were generated for each technical term:
 
 1. **API**: [Listen](audio)
-2. **CUDA**: [Listen](output_cuda.wav)
-3. **TTS**: [Listen](output_tts.wav)
-4. **OAuth**: [Listen](output_oauth.wav)
-5. **REST**: [Listen](output_rest.wav)
+2. **CUDA**: [Listen](audio)
+3. **TTS**: [Listen](audio)
+4. **OAuth**: [Listen](audio)
+5. **REST**: [Listen](audio)
 
 ### Conclusion
 The fine-tuned Coqui TTS model demonstrated significant improvements in pronunciation accuracy for technical terms compared to the pre-trained version. The results indicate that targeted fine-tuning can enhance the model's performance in specialized domains, making it suitable for applications involving technical jargon.
