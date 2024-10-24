@@ -40,12 +40,12 @@ To get started with this project, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/TTS-Fine-Tuning-Assignment.git
+   git clone https://github.com/Rick-7799/IIT_Roorkee_TTS_Fine-Tuning.git
    ```
 
 2. **Navigate into the Directory**:
    ```bash
-   cd TTS-Fine-Tuning-Assignment
+   cd IIT_Roorkee_TTS_Fine-Tuning
    ```
 
 3. **Install Required Packages**:
