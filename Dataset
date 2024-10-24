@@ -2,6 +2,6 @@
     {"text": "The API allows developers to access data.", "audio_filepath": "audio/api.wav"},
     {"text": "CUDA is used for parallel computing.", "audio_filepath": "audio/cuda.wav"},
     {"text": "Text-to-Speech technology converts text into spoken words.", "audio_filepath": "audio/tts.wav"},
-    {"text": "OAuth is an open standard for access delegation.", "audio_filepath": "audio/oauth.wav"},
+    {"text": "OAuth is an open standard for access delegation.", "audio_filepath": "audio/ouath.wav"},
     {"text": "REST APIs are widely used in web services.", "audio_filepath": "audio/rest.wav"}
 ]
