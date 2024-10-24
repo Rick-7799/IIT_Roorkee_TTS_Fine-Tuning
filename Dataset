@@ -1,1 +1,7 @@
-
+[
+    {"text": "Namaste, aap kaise hain?", "audio_filepath": "audio/namaste.wav"},
+    {"text": "Yeh ek pariksha hai.", "audio_filepath": "audio/pariksha.wav"},
+    {"text": "Mujhe khushi hai aapse milke.", "audio_filepath": "audio/khushi.wav"},
+    {"text": "Aapka din shubh ho.", "audio_filepath": "audio/din.wav"},
+    {"text": "Kya aapko madad chahiye?", "audio_filepath": "audio/madad.wav"}
+]
