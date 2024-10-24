@@ -13,16 +13,6 @@ The dataset was created to include both technical jargon and general English sen
 The dataset is structured in a JSON format as follows:
  [Dataset](dataset)
 
-```json
-[
-    {"text": "The API allows developers to access data.", "audio_filepath": "audio/api.wav"},
-    {"text": "CUDA is used for parallel computing.", "audio_filepath": "audio/cuda.wav"},
-    {"text": "Text-to-Speech technology converts text into spoken words.", "audio_filepath": "audio/tts.wav"},
-    {"text": "OAuth is an open standard for access delegation.", "audio_filepath": "audio/oauth.wav"},
-    {"text": "REST APIs are widely used in web services.", "audio_filepath": "audio/rest.wav"}
-]
-```
-
 ### Logs from Fine-tuning Process
 During the fine-tuning process, the following logs were recorded:
 
@@ -61,11 +51,11 @@ Here’s a list of technical terms included in the dataset along with their corr
 
 | Technical Term | Pronunciation Output File |
 |----------------|---------------------------|
-| API            | output_api.wav            |
-| CUDA           | output_cuda.wav           |
-| TTS            | output_tts.wav            |
-| OAuth          | output_oauth.wav          |
-| REST           | output_rest.wav           |
+| API            | api.wav            |
+| CUDA           | cuda.wav           |
+| TTS            | tts.wav            |
+| OAuth          | oauth.wav          |
+| REST           | rest.wav           |
 
 ### Sample Pronunciation Outputs
 The following audio files were generated for each technical term:
