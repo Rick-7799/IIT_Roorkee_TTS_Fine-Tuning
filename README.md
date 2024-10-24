@@ -11,7 +11,7 @@ The dataset was created to include both technical jargon and general English sen
 
 #### Dataset Structure
 The dataset is structured in a JSON format as follows:
- [Dataset](dataset)
+ [Dataset](Dataset)
 
 ### Logs from Fine-tuning Process
 During the fine-tuning process, the following logs were recorded:
@@ -54,17 +54,17 @@ Here’s a list of technical terms included in the dataset along with their corr
 | API            | api.wav            |
 | CUDA           | cuda.wav           |
 | TTS            | tts.wav            |
-| OAuth          | oauth.wav          |
+| OAuth          | ouath.wav          |
 | REST           | rest.wav           |
 
 ### Sample Pronunciation Outputs
 The following audio files were generated for each technical term:
 
 1. **API**: [Listen](api.wav)
-3. **CUDA**: [Listen](audio)
-4. **TTS**: [Listen](audio)
-5. **OAuth**: [Listen](audio)
-6. **REST**: [Listen](audio)
+3. **CUDA**: [Listen](cuda.wav)
+4. **TTS**: [Listen](tts.wav)
+5. **OAuth**: [Listen](ouath.wav)
+6. **REST**: [Listen](rest.wav)
 
 ### Conclusion
 The fine-tuned Coqui TTS model demonstrated significant improvements in pronunciation accuracy for technical terms compared to the pre-trained version. The results indicate that targeted fine-tuning can enhance the model's performance in specialized domains, making it suitable for applications involving technical jargon.
