@@ -1,6 +1,4 @@
-Here’s an impressive README file for the main branch of your GitHub repository. This README provides an overview of the project, instructions for setup, and links to specific branches for detailed reports.
 
-```markdown
 # TTS Fine-Tuning Assignment
 
 Welcome to the TTS Fine-Tuning Assignment repository! This project focuses on enhancing Text-to-Speech (TTS) models for both English technical speech and a selected regional language[Hindi]. The aim is to fine-tune existing models to improve their performance in specialized contexts, such as technical jargon and regional dialects.
