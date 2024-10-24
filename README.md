@@ -1,4 +1,4 @@
-# Task 2 Report: Fine-tuning TTS for a Regional Language
+# Task 2 Report: Fine-tuning TTS for a Regional Language [Hindi]
 
 ## Model Performance Overview
 
@@ -7,7 +7,7 @@
 - **Base Model**: `microsoft/speecht5-tts`
 
 ### Dataset Description
-The dataset was created to include natural language sentences in the selected regional language. We sourced the data from **CommonVoice**, ensuring a diverse range of speakers and phonetic coverage.
+The dataset was created to include natural language sentences in the selected regional language[Hindi]. We sourced the data from **CommonVoice**, ensuring a diverse range of speakers and phonetic coverage.
 
 #### Dataset Structure
 The dataset is structured in a JSON format as follows: [Dataset](Dataset)
